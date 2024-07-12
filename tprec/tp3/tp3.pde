@@ -2,6 +2,7 @@
 // legajo: 92814/9
 // comisiòn 1 
 // tp3
+//video: https://youtu.be/-KvcZa1QIDA
 
 PImage tri;
 int tam, cuenta;
